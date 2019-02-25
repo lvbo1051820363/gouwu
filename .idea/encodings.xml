@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_basic_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_config_servce_1299" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_config_servce_9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_eureka_servce_7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_plat_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gouwu_zuul_servce_9527" charset="UTF-8" />
+  </component>
+</project>

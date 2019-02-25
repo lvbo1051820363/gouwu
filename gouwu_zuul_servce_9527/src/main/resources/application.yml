@@ -1,0 +1,18 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: microservice-zuul-gateway
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instance-id: gateway-9527.com
+    prefer-ip-address: true
+zuul:
+  routes:
+    aigouEmployee.serviceId: employee-provider
+    aigouEmployee.path: /employee/**  # 匹配 /xxx开头的请求映射到user-provider服务上
+  ignored-services: "*" #user-provider #忽略直接使用服务名访问  *忽略所有的
+  prefix: /gouwu   # 访问前缀

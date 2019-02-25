@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gouwu_basic_util" />
+        <module name="gouwu_eureka_servce_7001" />
+        <module name="gouwu_eureka_sevce_7001" />
+        <module name="gouwu_plat_interface" />
+        <module name="gouwu_plat_service" />
+        <module name="gouwu_zuul_servce_1299" />
+        <module name="gouwu_zuul_servce_9527" />
+        <module name="gouwuconfig_servce_9527" />
+      </profile>
+      <profile name="Annotation profile for gouwu_parent" enabled="true">
+        <sourceOutputDir name="../gouwu_zuul_servce_1299/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../gouwu_zuul_servce_1299/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gouwu_config_servce_1299" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gouwu_basic_parent" target="1.5" />
+      <module name="gouwu_basic_util" target="1.5" />
+      <module name="gouwu_config_servce_1299" target="1.5" />
+      <module name="gouwu_config_servce_9527" target="1.5" />
+      <module name="gouwu_eureka_servce_7001" target="1.5" />
+      <module name="gouwu_eureka_sevce_7001" target="1.5" />
+      <module name="gouwu_parent" target="1.5" />
+      <module name="gouwu_plat_interface" target="1.5" />
+      <module name="gouwu_plat_parent" target="1.5" />
+      <module name="gouwu_plat_service" target="1.5" />
+      <module name="gouwu_zuul_servce_1299" target="1.5" />
+      <module name="gouwu_zuul_servce_9527" target="1.7" />
+      <module name="gouwuconfig_servce_9527" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
