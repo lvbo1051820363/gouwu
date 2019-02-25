@@ -9,7 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>gouwu_zuul_servce_1299</artifactId>
+    <artifactId>gouwu_config_servce_1299</artifactId>
 
+    <dependencies>
 
+    </dependencies>
 </project>
