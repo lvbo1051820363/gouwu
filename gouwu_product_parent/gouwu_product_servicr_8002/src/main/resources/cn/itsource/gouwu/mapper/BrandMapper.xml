@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.itsource.gouwu.mapper.BrandMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="cn.itsource.gouwu.domain.Brand">
+        <id column="id" property="id" />
+        <result column="createTime" property="createTime" />
+        <result column="updateTime" property="updateTime" />
+        <result column="name" property="name" />
+        <result column="englishName" property="englishName" />
+        <result column="firstLetter" property="firstLetter" />
+        <result column="description" property="description" />
+        <result column="product_type_id" property="productTypeId" />
+        <result column="sortIndex" property="sortIndex" />
+        <result column="logo" property="logo" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, createTime, updateTime, name, englishName, firstLetter, description, product_type_id AS productTypeId, sortIndex, logo
+    </sql>
+
+    <!-- long queryPageCount( BrandQuery query);-->
+    <select id="queryPageCount" resultType="long" parameterType="BrandQuery">
+        SELECT
+        count(*)
+        FROM
+        t_brand b
+        LEFT JOIN t_product_type p ON b.product_type_id = p.id
+        <include refid="whereSql"/>
+    </select>
+    <!--List<Brand> queryPage(Page page, BrandQuery query);
+    -->
+    <select id="queryPage" resultMap="brandMap" parameterType="BrandQuery">
+        SELECT
+        b.*,p.id pid,p.name pname
+        FROM
+        t_brand b
+        LEFT JOIN t_product_type p ON b.product_type_id = p.id
+        <include refid="whereSql"/>
+        limit #{start},#{rows}
+    </select>
+
+    <!--where 条件的抽取-->
+    <sql id="whereSql">
+        <where>
+            <if test="keyword!=null and keyword!=''">
+                and
+                ( b.name like concat("%",#{keyword},"%")
+                or b.englishName like concat("%",#{keyword},"%")
+                or b.description like concat("%",#{keyword},"%")
+                )
+            </if>
+
+        </where>
+
+    </sql>
+
+    <resultMap id="brandMap" type="Brand">
+    <!--封装基本属性-->
+    <id column="id" property="id" />
+    <result column="createTime" property="createTime" />
+    <result column="updateTime" property="updateTime" />
+    <result column="name" property="name" />
+    <result column="englishName" property="englishName" />
+    <result column="firstLetter" property="firstLetter" />
+    <result column="description" property="description" />
+    <result column="product_type_id" property="productTypeId" />
+    <result column="sortIndex" property="sortIndex" />
+    <result column="logo" property="logo" />
+    <!--再封装关联属性
+     private ProductType productType;
+    -->
+        <association property="productType" javaType="ProductType">
+            <id column="pid" property="id" />
+            <result column="pname" property="name" />
+        </association>
+    </resultMap>
+</mapper>

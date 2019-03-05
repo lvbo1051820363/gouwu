@@ -1,8 +1,8 @@
-server:
-  port: 9527
 spring:
   application:
-    name: microservice-zuul-gateway
+      name: microservice-zuul-gateway
+server:
+  port: 9527
 eureka:
   client:
     service-url:
@@ -12,7 +12,13 @@ eureka:
     prefer-ip-address: true
 zuul:
   routes:
-    aigouEmployee.serviceId: employee-provider
-    aigouEmployee.path: /employee/**  # 匹配 /xxx开头的请求映射到user-provider服务上
+    gouwuEmployee.serviceId: employee-provider
+    gouwuEmployee.path: /employee/**  # 匹配 /xxx开头的请求映射到user-provider服务上
+
+    gouwuProduct.serviceId: gouwu-product
+    gouwuProduct.path: /product/**  # 匹配 /xxx开头的请求映射到user-provider服务上
+
+    gouwuCommon.serviceId: common-privoder
+    gouwuCommon.path: /common/**
   ignored-services: "*" #user-provider #忽略直接使用服务名访问  *忽略所有的
   prefix: /gouwu   # 访问前缀

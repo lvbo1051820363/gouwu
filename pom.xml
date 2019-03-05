@@ -9,12 +9,14 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>gouwu_config_servce_9527</module>
         <module>gouwu_eureka_servce_7001</module>
-        <module>gouwu_zuul_servce_1299</module>
         <module>gouwu_basic_parent</module>
         <module>gouwu_plat_parent</module>
         <module>gouwu_zuul_servce_9527</module>
+        <module>gouwu_config_servce_1299</module>
+        <module>gouwu_product_parent</module>
+        <module>gouwu_mp_generated</module>
+        <module>gouwu_common_parent</module>
     </modules>
 
     <properties>

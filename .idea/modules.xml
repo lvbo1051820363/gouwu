@@ -4,12 +4,19 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_parent.iml" filepath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/gouwu_basic_util.iml" filepath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/gouwu_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/gouwu_common_interface.iml" filepath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/gouwu_common_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_parent.iml" filepath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/gouwu_common_service.iml" filepath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/gouwu_common_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_config_servce_1299/gouwu_config_servce_1299.iml" filepath="$PROJECT_DIR$/gouwu_config_servce_1299/gouwu_config_servce_1299.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_eureka_servce_7001/gouwu_eureka_servce_7001.iml" filepath="$PROJECT_DIR$/gouwu_eureka_servce_7001/gouwu_eureka_servce_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwu_mp_generated/gouwu_mp_generated.iml" filepath="$PROJECT_DIR$/gouwu_mp_generated/gouwu_mp_generated.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_parent.iml" filepath="$PROJECT_DIR$/gouwu_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface/gouwu_plat_interface.iml" filepath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface/gouwu_plat_interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_parent.iml" filepath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/gouwu_plat_service.iml" filepath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/gouwu_plat_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/gouwu_product_interface.iml" filepath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/gouwu_product_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_parent.iml" filepath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/gouwu_product_servicr_8002.iml" filepath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/gouwu_product_servicr_8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/gouwu_zuul_servce_9527.iml" filepath="$PROJECT_DIR$/gouwu_zuul_servce_9527/gouwu_zuul_servce_9527.iml" />
     </modules>
   </component>

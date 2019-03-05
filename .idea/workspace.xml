@@ -1,7 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b497b422-8e0e-400f-98d7-f3310c2487ff" name="Default" comment="" />
+    <list default="true" id="b497b422-8e0e-400f-98d7-f3310c2487ff" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_csource_fastdfs_client_java_1_27_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/constants/GlobelConstants.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/query/BaseQuery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/BitStatesUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/ClassUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/CodeGenerateUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/LetterUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/PageList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/ProductStateConsts.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/PropertiesHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/StrUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/encrypt/DES.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/encrypt/MD5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/gouwu_common_interface.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/PageStaticClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/PageStaticFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/RedisClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/RedisClientFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home/common-footer.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home/common-header-top.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home/common-header.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home/common-link.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home/common-nav.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home/common-right-sidebar.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/product.type.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/product.type.vm.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/gouwu_common_service.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/CommonServiceApplicaton_8003.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/FastDfsController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/PageController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/RedisController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/FastDfsApiOpr.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/RedisUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/VelocityUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/resources/fdfs_client.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_common_parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_config_servce_1299/src/main/java/cn/itsource/gouwu/ConfigServerApplication_1299.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_config_servce_1299/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_mp_generated/gouwu_mp_generated.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_mp_generated/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_mp_generated/src/main/java/cn/itsource/gouwu/GenteratorCode.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_mp_generated/src/main/resources/gen.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_mp_generated/src/main/resources/templates/controller.java.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_mp_generated/src/main/resources/templates/query.java.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/gouwu_product_interface.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/Brand.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/Product.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/ProductExt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/ProductMedia.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/ProductType.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/Specification.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/query/BrandQuery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/query/ProductExtQuery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/query/ProductMediaQuery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/query/ProductQuery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/query/ProductTypeQuery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/query/SpecificationQuery.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/gouwu_product_servicr_8002.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/ProductServiceApplication_8002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/config/MybatisPlusConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/config/Swagger2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/BrandController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductExtController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductMediaController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductTypeController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/SpecificationController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/BrandMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductExtMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductMediaMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductTypeMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/SpecificationMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IBrandService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductExtService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductMediaService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductTypeService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/ISpecificationService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/BrandServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductExtServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductMediaServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductTypeServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/SpecificationServiceImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/BrandMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductExtMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductMediaMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductTypeMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/SpecificationMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_product_parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/config/GlobalCorsConfig.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/gouwu_basic_util.iml" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/gouwu_basic_util.iml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/pom.xml" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/target/classes/cn/itsource/util/AjaxResult.class" afterPath="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/target/classes/cn/itsource/util/AjaxResult.class" />
+      <change beforePath="$PROJECT_DIR$/gouwu_basic_parent/pom.xml" afterPath="$PROJECT_DIR$/gouwu_basic_parent/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_config_servce_1299/gouwu_config_servce_1299.iml" afterPath="$PROJECT_DIR$/gouwu_config_servce_1299/gouwu_config_servce_1299.iml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_config_servce_1299/pom.xml" afterPath="$PROJECT_DIR$/gouwu_config_servce_1299/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/gouwu_plat_service.iml" afterPath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/gouwu_plat_service.iml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/pom.xml" afterPath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/resources/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/target/classes/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/gouwu_zuul_servce_9527/gouwu_zuul_servce_9527.iml" afterPath="$PROJECT_DIR$/gouwu_zuul_servce_9527/gouwu_zuul_servce_9527.iml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_zuul_servce_9527/pom.xml" afterPath="$PROJECT_DIR$/gouwu_zuul_servce_9527/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/gouwu_zuul_servce_9527/target/classes/application.yml" afterPath="$PROJECT_DIR$/gouwu_zuul_servce_9527/target/classes/application.yml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/gouwu_eureka_sevce_7001/target/" />
@@ -15,6 +177,14 @@
     <ignored path="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/target/" />
     <ignored path="$PROJECT_DIR$/gouwu_config_servce_9527/target/" />
     <ignored path="$PROJECT_DIR$/gouwu_zuul_servce_9527/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_config_servce_1299/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_product_parent/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_mp_generated/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_common_parent/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/target/" />
+    <ignored path="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,69 +192,85 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/resources/application.yml">
+      <file leaf-file-name="GenteratorCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gouwu_mp_generated/src/main/java/cn/itsource/gouwu/GenteratorCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="-138">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java">
+      <file leaf-file-name="RedisController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/RedisController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZuulApplication_9527.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/ZuulApplication_9527.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+            <state relative-caret-position="81">
+              <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
                 <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DocumentationConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java">
+      <file leaf-file-name="ProductTypeServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductTypeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/controller/EmployeeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="349">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/swagger/SwaggerConfig.java">
+      <file leaf-file-name="RedisUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/RedisUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            <state relative-caret-position="-542">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductTypeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductTypeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="90" column="40" lean-forward="true" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+              <folding>
+                <element signature="e#2303#2316#0" expanded="true" />
+                <element signature="e#2606#2607#0" expanded="true" />
+                <element signature="e#2660#2661#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IProductTypeService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductTypeService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -95,12 +281,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -110,30 +298,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gouwu_basic_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface/pom.xml" />
-        <option value="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/AjaxResult.java" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/gouwu_eureka_servce_7001/pom.xml" />
-        <option value="$PROJECT_DIR$/gouwu_eureka_servce_7001/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/gouwu_eureka_servce_7001/src/main/java/cn/itsource/gouwu/EurekaServerApplication_7001.java" />
-        <option value="$PROJECT_DIR$/gouwu_config_servce_9527/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/ZuulApplication_9527.java" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/PlatServiceApplication_8001.java" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface/src/main/java/cn/itsource/gouwu/domain/Employee.java" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/controller/EmployeeController.java" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/gouwu_config_servce_9527/pom.xml" />
-        <option value="$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java" />
-        <option value="$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java" />
-        <option value="$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java" />
-        <option value="$PROJECT_DIR$/gouwu_zuul_servce_9527/pom.xml" />
-        <option value="$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java" />
-        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/Brand.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/query/BrandQuery.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/BrandMapper.xml" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/query/BaseQuery.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductTypeService.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/ProductType.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/RedisClient.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/RedisClientFactory.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java" />
+        <option value="$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/constants/GlobelConstants.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/ProductServiceApplication_8002.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/CommonServiceApplicaton_8003.java" />
         <option value="$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/ZuulApplication_9527.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/PageStaticFactory.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/PageStaticClient.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/VelocityUtils.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/resources/template/home.html" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/resources/fdfs_client.conf" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/src/main/java/cn/itsource/gouwu/client/RedisClient.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/FastDfsController.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/FastDfsApiOpr.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductExtController.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductMediaController.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/Product.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductService.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductMapper.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IBrandService.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductMapper.xml" />
+        <option value="$PROJECT_DIR$/gouwu_config_servce_1299/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_zuul_servce_9527/pom.xml" />
+        <option value="$PROJECT_DIR$/gouwu_mp_generated/src/main/java/cn/itsource/gouwu/GenteratorCode.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductTypeController.java" />
+        <option value="$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductTypeServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -156,11 +371,16 @@
       <select />
     </treeState>
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="262" />
-    <option name="y" value="53" />
-    <option name="width" value="1370" />
-    <option name="height" value="772" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -178,7 +398,8 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,17 +407,366 @@
               <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_common_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_mp_generated" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_mp_generated" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_mp_generated" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_mp_generated" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_mp_generated" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_mp_generated" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_mp_generated" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_servicr_8002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_servicr_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_servicr_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_servicr_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_servicr_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_servicr_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_product_servicr_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_zuul_servce_9527" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_zuul_servce_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_zuul_servce_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_zuul_servce_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_zuul_servce_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_zuul_servce_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gouwu_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gouwu_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu_zuul_servce_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itsource" type="462c0819:PsiDirectoryNode" />
+              <item name="gouwu" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
     <property name="last_opened_file_path" value="D:/Software/Git/bin/git.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -206,22 +776,29 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27554178" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.itsource.gouwu.swagger" />
+      <recent name="cn.itsource.gouwu.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_zuul_servce_9527\src\main\java\cn\itsource\gouwu\swagger" />
-      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_zuul_servce_9527\src\main\resources" />
-      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_config_servce_9527\src\main\java\cn\itsource\gouwu\swagger" />
-      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_eureka_servce_7001\src\main\resources" />
+      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_common_parent\gouwu_common_interface\src\main\resources" />
+      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_product_parent\gouwu_product_servicr_8002\src\main\java\cn\itsource\gouwu" />
+      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_product_parent\gouwu_product_servicr_8002\src\main\java\cn\itsource\gouwu\config" />
+      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_product_parent\gouwu_product_servicr_8002\src\main\resources" />
+      <recent name="D:\WorkSpaceIDEAEE\gouwu_parent\gouwu_mp_generated\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -232,8 +809,9 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.17942768" />
   </component>
-  <component name="RunManager" selected="Application.ZuulApplication_9527">
+  <component name="RunManager" selected="Application.CommonServiceApplicaton_8003">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -241,14 +819,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="EurekaServerApplication_7001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CommonServiceApplicaton_8003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="cn.itsource.gouwu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.itsource.gouwu.EurekaServerApplication_7001" />
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.gouwu.CommonServiceApplicaton_8003" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -257,13 +835,32 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="gouwu_eureka_servce_7001" />
+      <module name="gouwu_common_service" />
+      <envs />
+    </configuration>
+    <configuration name="GenteratorCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.gouwu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.gouwu.GenteratorCode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gouwu_mp_generated" />
       <envs />
     </configuration>
     <configuration name="PlatServiceApplication_8001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.itsource.gouwu.*" />
+          <option name="PATTERN" value="cn.itsource.gouwu.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,10 +876,29 @@
       <module name="gouwu_plat_service" />
       <envs />
     </configuration>
+    <configuration name="ProductServiceApplication_8002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.gouwu.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.gouwu.ProductServiceApplication_8002" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="gouwu_product_servicr_8002" />
+      <envs />
+    </configuration>
     <configuration name="ZuulApplication_9527" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.itsource.gouwu.*" />
+          <option name="PATTERN" value="cn.itsource.gouwu.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,15 +955,28 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="ZuulApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.itsource.gouwu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.gouwu.ZuulApplication_9527" />
-      <module name="gouwu_config_servce_9527" />
+    <configuration name="ConfigServerApplication_1299" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.gouwu.ConfigServerApplication_1299" />
+      <module name="gouwu_config_servce_1299" />
+      <envs />
+    </configuration>
+    <configuration name="EurekaServerApplication_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.gouwu.EurekaServerApplication_7001" />
+      <module name="gouwu_eureka_servce_7001" />
+      <envs />
+    </configuration>
+    <configuration name="PlatServiceApplication_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.gouwu.PlatServiceApplication_8001" />
+      <module name="gouwu_plat_service" />
+      <envs />
+    </configuration>
+    <configuration name="ProductServiceApplication_8002 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.gouwu.ProductServiceApplication_8002" />
+      <module name="gouwu_product_servicr_8002" />
       <envs />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -383,18 +1012,24 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.EurekaServerApplication_7001" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ZuulApplication_9527" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PlatServiceApplication_8001" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ZuulApplication_9527" />
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.PlatServiceApplication_8001" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ConfigServerApplication_1299" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication_7001" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ProductServiceApplication_8002 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PlatServiceApplication_8001" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ZuulApplication_9527" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ProductServiceApplication_8002" />
+      <item index="7" class="java.lang.String" itemvalue="Application.CommonServiceApplicaton_8003" />
+      <item index="8" class="java.lang.String" itemvalue="Application.GenteratorCode" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.ZuulApplication_9527" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PlatServiceApplication_8001" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EurekaServerApplication_7001" />
-        <item index="3" class="java.lang.String" itemvalue="Spring Boot.ZuulApplication_9527" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.CommonServiceApplicaton_8003" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ZuulApplication_9527" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GenteratorCode" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PlatServiceApplication_8001" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ProductServiceApplication_8002" />
       </list>
     </recent_temporary>
   </component>
@@ -415,37 +1050,77 @@
       <workItem from="1550928069154" duration="3183000" />
       <workItem from="1550969219476" duration="7550000" />
       <workItem from="1551056632865" duration="2576000" />
+      <workItem from="1551065055714" duration="5105000" />
+      <workItem from="1551075201764" duration="8682000" />
+      <workItem from="1551107841547" duration="1202000" />
+      <workItem from="1551142436459" duration="7267000" />
+      <workItem from="1551185700155" duration="1784000" />
+      <workItem from="1551243070299" duration="4689000" />
+      <workItem from="1551330607873" duration="22929000" />
+      <workItem from="1551401570480" duration="1049000" />
+      <workItem from="1551415217004" duration="10736000" />
+      <workItem from="1551446066834" duration="4142000" />
+      <workItem from="1551487913535" duration="810000" />
+      <workItem from="1551574675981" duration="14268000" />
+      <workItem from="1551613959005" duration="628000" />
+      <workItem from="1551692806570" duration="4921000" />
+      <workItem from="1551708261993" duration="7992000" />
+      <workItem from="1551747133966" duration="5185000" />
     </task>
+    <task id="LOCAL-00001" summary="&#10;&#10;测试">
+      <created>1551065172525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551065172525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加项目">
+      <created>1551065841489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551065841489</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20717000" />
+    <option name="totallyTimeSpent" value="122106000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42668864" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21633889" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35855263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56177926" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31301484" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39802632" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29500756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.71004945" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23558484" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29324546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30030257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -455,8 +1130,44 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42668864" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21633889" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56177926" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31301484" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42833608" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38385502" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32784185" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29324546" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24432677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -464,320 +1175,423 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#10;&#10;测试" />
+    <MESSAGE value="添加项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加项目" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java">
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductExtMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductMediaMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductTypeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/SpecificationMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductMediaServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/SpecificationServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductExtServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/BrandMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1551366326993" expanded="true" signature="1231:1348" ph="SELECT count... t_brand" />
+            <marker date="1551366326993" expanded="true" signature="1551:1752" ph="SELECT b.*,p... t_brand" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/PlatServiceApplication_8001.java">
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductMediaMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/SpecificationMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductExtMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IBrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/cn/itsource/gouwu/mapper/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="59" column="54" lean-forward="false" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+          <folding>
+            <marker date="1551712378294" expanded="true" signature="2080:2194" ph="select count... t_product" />
+            <marker date="1551712378294" expanded="true" signature="2367:2599" ph="select p.*, t_product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/BrandController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/controller/EmployeeController.java">
+    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_1299/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="209">
+          <caret line="15" column="42" lean-forward="false" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/ZuulApplication_9527.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1127">
-          <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="8" selection-end-line="53" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/PlatServiceApplication_8001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/ZuulApplication_9527.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="115">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gouwu_basic_parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-127">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_common_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gouwu_config_servce_1299/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-483">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/AjaxResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#198#199#0" expanded="false" />
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#271#272#0" expanded="false" />
-            <element signature="e#301#302#0" expanded="false" />
-            <element signature="e#443#444#0" expanded="false" />
-            <element signature="e#469#470#0" expanded="false" />
-            <element signature="e#597#598#0" expanded="false" />
-            <element signature="e#626#627#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gouwu_eureka_servce_7001/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="-242">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface/src/main/java/cn/itsource/gouwu/domain/Employee.java">
+    <entry file="file://$PROJECT_DIR$/gouwu_mp_generated/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_eureka_servce_7001/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/AA.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="-138">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JDK/src.zip!/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="50" column="18" lean-forward="false" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar!/springfox/documentation/swagger/web/SwaggerResourcesProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar!/springfox/documentation/swagger/web/SwaggerResource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/web/SwaggerResourcesProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/web/SwaggerResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/resources/application.yml" />
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/SwaggerConfig.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/ZuulApplication_9527.java" />
-    <entry file="file://$PROJECT_DIR$/gouwu_config_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java" />
     <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="53" column="21" lean-forward="false" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        <state relative-caret-position="-12">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="59" column="19" lean-forward="false" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        <state relative-caret-position="-598">
+          <caret line="11" column="51" lean-forward="false" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/swagger/SwaggerConfig.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/swagger/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_eureka_servce_7001/src/main/java/cn/itsource/gouwu/EurekaServerApplication_7001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gouwu_plat_parent/gouwu_plat_service/src/main/java/cn/itsource/gouwu/PlatServiceApplication_8001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="253">
+          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="529">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/ProductType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" column="53" lean-forward="false" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/swagger/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_basic_parent/gouwu_basic_util/src/main/java/cn/itsource/util/PageList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/SpecificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1669">
+          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gouwu_zuul_servce_9527/src/main/java/cn/itsource/gouwu/ZuulApplication_9527.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        <state relative-caret-position="161">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/util/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-542">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_interface/src/main/java/cn/itsource/gouwu/domain/Specification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/CommonServiceApplicaton_8003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_mp_generated/src/main/java/cn/itsource/gouwu/GenteratorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_common_parent/gouwu_common_service/src/main/java/cn/itsource/gouwu/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
             <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/controller/ProductTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="90" column="40" lean-forward="true" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+          <folding>
+            <element signature="e#2303#2316#0" expanded="true" />
+            <element signature="e#2606#2607#0" expanded="true" />
+            <element signature="e#2660#2661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/IProductTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gouwu_product_parent/gouwu_product_servicr_8002/src/main/java/cn/itsource/gouwu/service/impl/ProductTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +1612,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring (gouwu_config_servce_9527)|Spring</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -833,11 +1647,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>gouwu_config_servce_9527</last-edited>
+          <last-edited>gouwu_common_interface</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.27554178" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
